@@ -1,0 +1,24 @@
+# 1. Core Libraries
+langchain
+langchain-core
+langgraph
+
+# 2. LLM Providers
+openai
+anthropic
+ollama
+together
+huggingface-hub
+transformers
+
+# 3. Prompt & Parsing Utilities
+pydantic
+
+# 4. Vector Stores
+faiss-cpu
+chromadb
+pinecone-client
+weaviate-client
+qdrant-client
+milvus
+
